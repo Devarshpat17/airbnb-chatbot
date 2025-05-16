@@ -44,33 +44,3 @@ This project is designed to implement an information retrieval system with three
 
 Additional features include MongoDB integration to store and retrieve data efficiently and session management for context persistence.
 
-## Setup
-
-- Python 3.13+
-- Create and activate a virtual environment:
-  ```bash
-  python3.13 -m venv venv
-  source venv/bin/activate       # Linux/MacOS
-  venv\Scripts\activate          # Windows
-````
-
-* Install dependencies:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-## Usage
-
-Run the main chatbot driver:
-
-```bash
-python chatbot.py
-```
-
-## License
-
-MIT License
-
-
-```
